@@ -1,2 +1,22 @@
 # Keybot-coding-guide
-A comprehensive to using python effectively for FRC
+
+## Get your practice in python
+
+* A very insecure login
+* Rock, Paper, Scissors
+* Hangman
+* A better login
+* Battleship
+
+## Robot code
+* Running the simulator
+* Anatomy of a robot program
+* Controlling and tweaking
+* Autonomous mode
+
+## Image processing and vision
+* OpenCV basics
+* Networktables
+
+## Advanced robot control
+PIDs
