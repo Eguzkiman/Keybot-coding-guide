@@ -7,6 +7,7 @@
 * Hangman
 * A better login
 * Battleship
+* Simple pokemon
 
 ## Robot code
 * Running the simulator
