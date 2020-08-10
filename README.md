@@ -1,6 +1,7 @@
 # Keybot-coding-guide
 
-* Introduction (Aug 18th)
+Aug 18th
+* Introduction
 
 ## Get your practice in python
 
